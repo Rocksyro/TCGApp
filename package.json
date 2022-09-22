@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.2",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10",
+    "pokemontcgsdk": "^2.0.0"
   }
 }

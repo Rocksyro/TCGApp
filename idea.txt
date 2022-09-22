@@ -4,6 +4,7 @@ Aplicación que me deje marcar las tcg que tengo adquiridas.
 2- Buscar API de todas las tcg, o por expansión.
 https://dev.pokemontcg.io/dashboard
 https://docs.pokemontcg.io/ 
+https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript
 3- Crear un prototipo simple de la aplicación.
 4- Armar el servidor.
 5- Mostrar algunos datos de la API en las vistas.
